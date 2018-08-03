@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533271507 source:c:\users\al-akhir nayan\desktop\new folder\phb\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<stdlib.h>
+
